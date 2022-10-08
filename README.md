@@ -12,6 +12,9 @@ An example roblox lua script that is universal for anyone to use as their own pr
 - xHeptc for Kavo UI library
 - Interwebs for making me wanna learn lua
 
+# Contribution
+- If you think my code has issues or is messy feel free to make a pull request and I'll happily merge them.
+
 # Disclaimer
 - I'm not responsible for anything that you do with this example, if you get banned from Roblox or anything like that. I will not be held responsible.
 
